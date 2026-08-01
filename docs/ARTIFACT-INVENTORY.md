@@ -1,0 +1,20 @@
+# Public artifact inventory
+
+## Publicly inspectable
+
+| Component | Verifiable properties | Human direction | AI assistance |
+|---|---|---|---|
+| Public methods release | Runnable session workflow, evidence gates, error repair, and limitation notes | Problem framing, pedagogical architecture, acceptance criteria, and release boundary | Drafting, restructuring, examples, and repository production |
+| Digital Logic samples | Mechanism-first explanation, retrieval loop, and diagnostic questions | Required physical intuition, dependency order, and confidence-safe repair | Drafting and visual production |
+| Computer Networks samples | Visual packet trace, teach-back, transfer, and timed recall | Required operational diagrams and mistake-led repair | Synthesis, examples, and diagram production |
+| Evidence-gated planning sample | Evidence-based progression and anti-rewatch rule | Required exit evidence and outcome-claim boundary | Planning synthesis and drafting |
+
+## Retained privately
+
+The complete 120-page Digital Logic book, Computer Networks sprintbook, and personalized study guide are retained in the private proprietary archive. Their file hashes and detailed inventory are intentionally not repeated in this public repository.
+
+## Exclusions
+
+- Algorithm Studio is not included. It was primarily generated through ChatGPT Sites with human steering and is not presented as a personal engineering accomplishment.
+- Remnant is not included. It is a serious long-horizon project and is not yet portfolio-ready.
+- Private conversation transcripts, personal photographs, and confidential learner data are not included.

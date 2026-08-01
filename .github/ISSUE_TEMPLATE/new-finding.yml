@@ -1,0 +1,41 @@
+name: New learning-system finding
+description: Record a repeatable human direction that changed an AI-assisted learning output.
+title: "[Finding] "
+labels:
+  - finding
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Learning problem
+      description: What learner failure or product risk was visible?
+    validations:
+      required: true
+  - type: textarea
+    id: direction
+    attributes:
+      label: Human direction
+      description: What instruction, critique, constraint, or acceptance rule did maitranilim introduce?
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Behavior change
+      description: What changed in the model output or workflow?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link an artifact, sample, comparison, or reproducible test.
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: Limits and open questions
+      description: What remains unmeasured, uncertain, or context-dependent?
+    validations:
+      required: true
