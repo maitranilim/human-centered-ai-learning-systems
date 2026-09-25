@@ -10,6 +10,6 @@
 ## 0.1.0 - 2026-07-31
 
 - Reconstructed the recurring pedagogical architecture.
-- Added human-AI authorship and contribution vocabulary.
+- Added authorship and contribution notes.
 - Added reusable evaluation, error-analysis, and exit-gate rubrics.
 - Added an append-only contribution log and issue template.

@@ -16,7 +16,7 @@ This repository is the public, reusable part of that work. It includes a [Digita
 
 ## Authorship and limits
 
-I set the problem, learning sequence, constraints, review criteria, and acceptance decisions. ChatGPT and Codex helped with drafting, examples, diagrams, layout, and repository assembly. [The authorship note](docs/HUMAN-AI-AUTHORSHIP.md) gives the full boundary.
+I set the problem, learning sequence, constraints, review criteria, and acceptance decisions. AI tools helped with drafting, examples, diagrams, and layout. [How I made this](docs/AUTHORSHIP.md) has the details.
 
 The repository shows a teaching method and sample artifacts. It does not yet establish measured learning gains across students. I would need learner outcomes and a comparison before making that claim.
 

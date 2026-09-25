@@ -33,7 +33,7 @@ This entry reconstructs the strongest recoverable patterns across the available 
 
 ## What this does not demonstrate
 
-- permanent training or fine-tuning of ChatGPT;
+- permanent training or fine-tuning of any model;
 - sole manual authorship of the artifacts;
 - measured improvement in learner outcomes;
 - a complete archive of every past contribution.

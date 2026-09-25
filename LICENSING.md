@@ -10,7 +10,7 @@ This repository uses a practical dual-license structure.
 
 ## AI-assisted and AI-generated material
 
-ChatGPT and Codex made substantial contributions to drafting, diagrams, layout, and production. Copyright protection for AI-generated material can differ by jurisdiction and by the amount of human authorship involved.
+AI tools did a lot of the drafting, diagrams, layout, and production. Copyright protection for AI-generated material can differ by jurisdiction and by the amount of human authorship involved.
 
 The licenses in this repository cover only the copyright and related rights, if any, that `maitranilim` controls. They do not promise that every AI-generated element is independently copyrightable, and they do not grant rights in third-party trademarks or source material.
 

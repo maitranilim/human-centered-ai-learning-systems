@@ -16,7 +16,7 @@ A study calendar can create motion without mastery. It can also encourage full l
 
 ## AI production role
 
-ChatGPT and Codex assisted with sequencing, synthesis, calculations, layout, and PDF production.
+AI tools helped with sequencing, synthesis, calculations, layout, and PDF production.
 
 ## Inspectable evidence
 
