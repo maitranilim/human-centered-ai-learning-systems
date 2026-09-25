@@ -18,7 +18,7 @@ Computer Networks often becomes a list of protocol facts. That makes recognition
 
 ## AI production role
 
-ChatGPT and Codex assisted with topic synthesis, diagram generation, worked examples, question drafting, layout, and DOCX production.
+AI tools helped with topic synthesis, diagram generation, worked examples, question drafting, layout, and DOCX production.
 
 ## Inspectable evidence
 

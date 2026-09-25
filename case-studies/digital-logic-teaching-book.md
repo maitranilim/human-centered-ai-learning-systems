@@ -27,7 +27,7 @@ The broader reusable loop later became:
 
 ## AI production role
 
-ChatGPT and Codex assisted with research, drafting, examples, practice items, diagrams, layout, and PDF generation. The file metadata names OpenAI as author. This is preserved as honest provenance.
+AI tools helped with research, drafting, examples, practice items, diagrams, layout, and PDF generation.
 
 ## Inspectable evidence
 

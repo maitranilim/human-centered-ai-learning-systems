@@ -6,6 +6,6 @@ You may share and adapt the covered material, including commercially, provided t
 
 Suggested attribution:
 
-> Human-Centered AI Learning Systems by maitranilim, created with substantial assistance from ChatGPT and Codex, licensed under CC BY 4.0.
+> Human-Centered AI Learning Systems by maitranilim, licensed under CC BY 4.0.
 
 This grant applies only to rights that `maitranilim` is legally able to license. See [LICENSING.md](LICENSING.md) for important boundaries.

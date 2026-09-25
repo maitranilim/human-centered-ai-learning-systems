@@ -2,7 +2,7 @@
 
 ## Evidence boundary
 
-This repository reconstructs the strongest recoverable contribution patterns from available artifacts and interaction history. It is not a complete export of every ChatGPT or Codex conversation.
+This repository reconstructs the strongest recoverable contribution patterns from available artifacts and interaction history. It is not a complete export of every AI conversation.
 
 ## Learning outcomes
 
